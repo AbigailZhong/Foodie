@@ -4,11 +4,11 @@
     "slug": "foodie",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/hot-pot-sm.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/hot-pot.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#ffc529"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
